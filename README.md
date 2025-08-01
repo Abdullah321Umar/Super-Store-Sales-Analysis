@@ -65,3 +65,7 @@ Scatter chart revealing that higher discounts often reduce profit, helping the b
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
 ### 📧 Email: umerabdullah048@gmail.com
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/Abdullah321Umar/Super-Store-Sales-Analysis/blob/main/SuperStore%20Sales%20Dashboard.png)
